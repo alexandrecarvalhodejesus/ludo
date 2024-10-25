@@ -1,0 +1,161 @@
+.divPai{
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    color: black;
+    position: absolute;
+}
+
+.TopoEsquerda{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .TopoDireita{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  
+  }
+  
+  .BaseEsquerda{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+  
+  }
+  
+  .BaseDireita{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  
+  }
+
+
+.barrahorzontal1{
+  width: 100px;
+  height: 93px;
+  border: 2px solid;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 34%;
+  
+
+}
+
+.barrahorzontal-esquerda{
+  width: 75px;
+  height: 40px;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  top: 25%;
+  left: 23px;
+  
+}
+
+.barrahorzontal2{
+  width: 100px;
+  height: 93px;
+  border: 2px solid;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 34%;
+  right: 0%;
+
+}
+
+.barrahorzontal-direita{
+  width: 75px;
+  height: 40px;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  top: 25%;
+  right: 23px;
+  
+}
+
+
+.barravertical1{
+  width: 92px;
+  height: 100px;
+  border: 2px solid;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 102px;
+  
+
+}
+
+.barravertical-topo{
+  width: 35px;
+  height: 70%;
+  border: 2px solid;
+  color: rgb(0, 0, 0) ;
+  position: absolute;
+  left: 30%;
+  bottom: 0px;
+
+}
+
+//barras do meio
+.barravertical2{
+  width: 92px;
+  height:31%;
+  border: 2px solid;
+  color: rgb(0, 0, 0) ;
+  position: absolute;
+  left: 102px;
+  top: 34%;
+
+}
+  
+
+.meio-topoesquerdo{
+  position: absolute;
+  border: 1px solid   #000000;
+  width: 130px;
+  height: 0px;
+  left: -23%;
+  transform: rotate(45deg);
+  top: 48%;
+}
+
+
+.meio-topodireito{
+  position: absolute;
+  border: 1px solid   #000000;
+  width: 130px;
+  height: 0px;
+  left: -22%;
+  transform: rotate(-45deg);
+  top: 48%;
+}
+//barras do meio
+
+.barravertical3{
+  width: 92px;
+  height:100px;
+  border: 2px solid;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 102px;
+  top: 196px;
+
+}
+
+.barravertical-base{
+  width: 35px;
+  height:70%;
+  border: 2px solid;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 25%;
+  top: 0px;
+
+}
+
+ 
